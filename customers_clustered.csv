@@ -1,0 +1,201 @@
+CustomerID,Age,Annual_Income,Spending_Score,Purchase_Frequency,True_Segment,Cluster
+1,34,63493,46.8,8.5,Mid-Age Average,4
+2,21,24167,10.5,1.5,Young Budget Shoppers,0
+3,33,20346,29.3,2.8,Young Budget Shoppers,0
+4,51,45796,15.8,1.1,Senior Low Engagement,2
+5,37,142445,94.9,20.7,Affluent Big Spenders,3
+6,48,94915,45.7,7,Mid-Age Average,4
+7,35,46649,75.6,19.1,Young High Spenders,1
+8,60,58478,26.5,2,Senior Low Engagement,2
+9,66,45873,16.5,1.8,Senior Low Engagement,2
+10,22,44263,86.8,21.1,Young High Spenders,1
+11,28,61457,76.2,14.9,Young High Spenders,1
+12,44,71629,67.4,15.4,Senior Comfortable,4
+13,54,38580,22.8,1,Senior Low Engagement,2
+14,40,77330,53.3,6,Mid-Age Average,4
+15,60,122357,60.8,10.1,Senior Comfortable,4
+16,73,41774,32,2.7,Senior Low Engagement,2
+17,35,44881,67.8,18.6,Young High Spenders,1
+18,72,35947,12.8,3,Senior Low Engagement,2
+19,54,61081,44.3,9.1,Mid-Age Average,4
+20,20,53146,100,22.8,Young High Spenders,1
+21,44,139770,88.2,22.9,Affluent Big Spenders,3
+22,25,26349,11.8,3.5,Young Budget Shoppers,0
+23,40,60143,93.8,23.2,Affluent Big Spenders,1
+24,39,72206,45.3,14.2,Mid-Age Average,4
+25,35,67033,74.7,19.5,Young High Spenders,1
+26,34,65991,78,15.1,Young High Spenders,1
+27,40,84243,58.4,7,Mid-Age Average,4
+28,21,71049,99.7,13.6,Young High Spenders,1
+29,43,128616,88.9,14.7,Affluent Big Spenders,3
+30,42,153395,92.1,20.5,Affluent Big Spenders,3
+31,21,28405,29.5,1.6,Young Budget Shoppers,0
+32,28,22805,29,6,Young Budget Shoppers,0
+33,28,54415,79.8,22.1,Young High Spenders,1
+34,38,41752,40.5,6.2,Mid-Age Average,0
+35,67,56109,6.5,2.3,Senior Low Engagement,2
+36,49,58125,46.6,4.6,Mid-Age Average,4
+37,53,108937,87.9,32,Affluent Big Spenders,3
+38,42,123287,82.8,17.8,Affluent Big Spenders,3
+39,57,36627,26.7,3,Senior Low Engagement,2
+40,44,49933,55.3,6.4,Mid-Age Average,4
+41,41,69131,33,9.3,Mid-Age Average,4
+42,63,105390,64,13.2,Senior Comfortable,4
+43,21,31754,41,2.3,Young Budget Shoppers,0
+44,22,32267,15.7,1.8,Young Budget Shoppers,0
+45,46,122487,91.7,23.3,Affluent Big Spenders,3
+46,59,110449,62,9.6,Senior Comfortable,4
+47,26,26852,7.7,3.2,Young Budget Shoppers,0
+48,24,33810,15.9,7.4,Young Budget Shoppers,0
+49,31,131308,84.6,13.7,Affluent Big Spenders,3
+50,44,51133,59.1,11.2,Mid-Age Average,4
+51,57,68312,39.3,9.9,Mid-Age Average,4
+52,59,28963,15.8,2,Senior Low Engagement,2
+53,19,29312,29.9,3.5,Young Budget Shoppers,0
+54,38,136708,91.4,28.7,Affluent Big Spenders,3
+55,41,29947,70.6,4.6,Mid-Age Average,4
+56,46,44794,35,2.5,Mid-Age Average,2
+57,57,110956,89.5,15.9,Affluent Big Spenders,3
+58,47,47050,26.1,9,Mid-Age Average,4
+59,65,56679,30,1,Senior Low Engagement,2
+60,39,63516,48.6,11.2,Mid-Age Average,4
+61,73,36095,18.7,2.6,Senior Low Engagement,2
+62,52,64055,60,5.5,Mid-Age Average,4
+63,22,21200,27.4,1.4,Young Budget Shoppers,0
+64,24,19257,20.8,4,Young Budget Shoppers,0
+65,29,32143,19.7,5.7,Young Budget Shoppers,0
+66,38,53135,54.7,15.8,Mid-Age Average,1
+67,38,50402,86.4,24.9,Young High Spenders,1
+68,51,73924,76.8,9.5,Senior Comfortable,4
+69,56,65525,47.8,7.6,Mid-Age Average,4
+70,29,156376,84.7,16.1,Affluent Big Spenders,3
+71,29,71890,80.3,16.9,Young High Spenders,1
+72,49,102791,82.9,28.2,Affluent Big Spenders,3
+73,53,60527,14.3,1,Senior Low Engagement,2
+74,23,52846,86.9,19.4,Young High Spenders,1
+75,33,84064,33.4,8,Mid-Age Average,4
+76,48,72627,32.2,8.6,Mid-Age Average,4
+77,26,25908,15.5,2.1,Young Budget Shoppers,0
+78,32,159118,83.8,30.1,Affluent Big Spenders,3
+79,51,57712,32.2,8.9,Mid-Age Average,4
+80,40,79934,40,6.8,Mid-Age Average,4
+81,27,24007,21.4,3.3,Young Budget Shoppers,0
+82,42,64680,56.3,4.8,Mid-Age Average,4
+83,32,62720,100,19.7,Young High Spenders,1
+84,63,99293,54.4,9.4,Senior Comfortable,4
+85,58,84613,73.6,6.2,Senior Comfortable,4
+86,43,29051,51.7,3.6,Mid-Age Average,4
+87,65,46992,22.2,1.8,Senior Low Engagement,2
+88,24,25436,27.3,3.2,Young Budget Shoppers,0
+89,61,90206,77.3,7.8,Senior Comfortable,4
+90,28,39083,84.2,19.3,Young High Spenders,1
+91,29,28977,21.4,0,Young Budget Shoppers,0
+92,53,96472,92.3,23.2,Affluent Big Spenders,3
+93,46,65751,22,5.5,Mid-Age Average,4
+94,21,30983,10.5,2.3,Young Budget Shoppers,0
+95,27,31788,24,0.9,Young Budget Shoppers,0
+96,60,122133,60.1,4.6,Senior Comfortable,4
+97,67,45245,1,1.8,Senior Low Engagement,2
+98,25,33229,20.3,5.2,Young Budget Shoppers,0
+99,25,25226,21.6,2.8,Young Budget Shoppers,0
+100,47,80976,78.2,14.8,Affluent Big Spenders,4
+101,18,28700,13,4.3,Young Budget Shoppers,0
+102,22,22483,19.1,0.5,Young Budget Shoppers,0
+103,39,108786,90.4,31.1,Affluent Big Spenders,3
+104,40,135937,95.2,19.9,Affluent Big Spenders,3
+105,33,72666,66.2,5.1,Mid-Age Average,4
+106,18,80856,96.3,15.6,Affluent Big Spenders,1
+107,28,29735,31.7,2.4,Young Budget Shoppers,0
+108,25,55368,70.9,17.6,Young High Spenders,1
+109,51,72852,42.9,7.1,Mid-Age Average,4
+110,67,106531,88.9,19.4,Affluent Big Spenders,3
+111,68,46153,39.1,1.1,Senior Low Engagement,2
+112,25,32460,29.6,1.5,Young Budget Shoppers,0
+113,48,101513,60.6,13.1,Senior Comfortable,4
+114,59,20632,17.3,0,Senior Low Engagement,2
+115,46,82668,51.3,4.9,Mid-Age Average,4
+116,50,117847,88.7,17.5,Affluent Big Spenders,3
+117,29,51068,100,24.3,Young High Spenders,1
+118,31,41715,85.7,17,Young High Spenders,1
+119,66,41720,9.5,1.9,Senior Low Engagement,2
+120,26,33148,33.4,4.6,Young Budget Shoppers,0
+121,22,75684,83.2,16.5,Young High Spenders,1
+122,50,63035,49.2,11.3,Mid-Age Average,4
+123,67,37138,6.4,1.2,Senior Low Engagement,2
+124,68,38101,7.1,0,Senior Low Engagement,2
+125,23,32760,22.9,2.4,Young Budget Shoppers,0
+126,23,31517,32.4,3.4,Young Budget Shoppers,0
+127,52,91783,63.4,10,Senior Comfortable,4
+128,49,148695,85.4,26.1,Affluent Big Spenders,3
+129,43,64566,50.7,9,Mid-Age Average,4
+130,27,26144,22.6,1.2,Young Budget Shoppers,0
+131,59,41644,23.1,1.8,Senior Low Engagement,2
+132,29,50265,100,16.5,Young High Spenders,1
+133,42,76027,56.3,8.2,Mid-Age Average,4
+134,59,36895,19.3,1.2,Senior Low Engagement,2
+135,23,72537,76.3,14.1,Young High Spenders,1
+136,27,126456,81.3,23.2,Affluent Big Spenders,3
+137,28,29393,21.2,5,Young Budget Shoppers,0
+138,40,82222,52.4,6.6,Mid-Age Average,4
+139,21,62727,94.6,15.8,Young High Spenders,1
+140,49,115216,100,16.6,Affluent Big Spenders,3
+141,57,108031,72.5,9.8,Senior Comfortable,4
+142,56,52125,16.3,1.6,Senior Low Engagement,2
+143,67,106755,42.2,10.7,Senior Comfortable,4
+144,27,53039,82.7,12.5,Young High Spenders,1
+145,40,25631,22.3,7.4,Mid-Age Average,0
+146,26,28855,25.7,2.9,Young Budget Shoppers,0
+147,23,29342,25.1,1.2,Young Budget Shoppers,0
+148,48,60171,51.1,9,Mid-Age Average,4
+149,30,72699,52.4,9,Mid-Age Average,4
+150,21,66208,55.5,12,Mid-Age Average,1
+151,60,31310,26.3,0.4,Senior Low Engagement,2
+152,65,111379,66.4,9.8,Senior Comfortable,4
+153,45,82139,41.5,9.2,Mid-Age Average,4
+154,24,32073,29.8,2,Young Budget Shoppers,0
+155,29,26082,24.2,2.7,Young Budget Shoppers,0
+156,28,50991,80.8,18,Young High Spenders,1
+157,63,38258,25,2.7,Senior Low Engagement,2
+158,48,97808,93.9,16.2,Affluent Big Spenders,3
+159,20,36970,15,4.3,Young Budget Shoppers,0
+160,49,49516,30.8,7.6,Mid-Age Average,4
+161,59,43194,16.2,0.8,Senior Low Engagement,2
+162,42,155096,89.4,25.6,Affluent Big Spenders,3
+163,65,22693,23.4,2.6,Senior Low Engagement,2
+164,49,56523,66.4,12.7,Senior Comfortable,4
+165,33,49190,73.3,26.4,Young High Spenders,1
+166,21,30398,79.2,19.9,Young High Spenders,1
+167,36,47666,65.9,13.8,Mid-Age Average,1
+168,24,59051,73.3,17,Young High Spenders,1
+169,63,73425,49.1,13,Senior Comfortable,4
+170,26,44462,76.5,18.2,Young High Spenders,1
+171,26,54939,78.2,17.5,Young High Spenders,1
+172,28,36276,56.4,11.3,Mid-Age Average,1
+173,21,25991,38,1.5,Young Budget Shoppers,0
+174,28,40374,83.7,19.4,Young High Spenders,1
+175,56,25056,26.3,3.1,Senior Low Engagement,2
+176,61,71729,62.6,11.5,Senior Comfortable,4
+177,51,160723,94.6,23.8,Affluent Big Spenders,3
+178,21,28951,25.2,4.5,Young Budget Shoppers,0
+179,66,28866,23.9,1,Senior Low Engagement,2
+180,57,126878,73.5,11.2,Senior Comfortable,3
+181,20,31259,18.4,3.3,Young Budget Shoppers,0
+182,25,56087,87.5,18.9,Young High Spenders,1
+183,49,100336,91.3,13.1,Affluent Big Spenders,3
+184,55,95746,92.7,10,Affluent Big Spenders,4
+185,59,65493,19.9,1.8,Senior Low Engagement,2
+186,46,44122,59,1.8,Mid-Age Average,4
+187,56,57787,34.4,7.9,Mid-Age Average,4
+188,29,56923,59.6,11.2,Mid-Age Average,1
+189,39,68864,52.8,7,Mid-Age Average,4
+190,33,60492,30.8,10.8,Mid-Age Average,4
+191,58,112567,84.2,21.7,Affluent Big Spenders,3
+192,45,97966,47,10.1,Senior Comfortable,4
+193,23,17903,21.2,3.6,Young Budget Shoppers,0
+194,51,83309,47.2,6.8,Senior Comfortable,4
+195,28,69563,65.7,9.4,Mid-Age Average,1
+196,43,48846,63.1,7.1,Mid-Age Average,4
+197,26,25178,8.1,0.8,Young Budget Shoppers,0
+198,49,51436,59.8,13.9,Mid-Age Average,4
+199,46,36762,16.6,1,Senior Low Engagement,2
+200,56,74997,41.9,3.2,Mid-Age Average,4
